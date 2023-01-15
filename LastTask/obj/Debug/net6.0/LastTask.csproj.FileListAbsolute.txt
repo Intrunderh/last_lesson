@@ -1,0 +1,15 @@
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\bin\Debug\net6.0\LastTask.exe
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\bin\Debug\net6.0\LastTask.deps.json
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\bin\Debug\net6.0\LastTask.runtimeconfig.json
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\bin\Debug\net6.0\LastTask.dll
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\bin\Debug\net6.0\LastTask.pdb
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.csproj.AssemblyReference.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.AssemblyInfoInputs.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.AssemblyInfo.cs
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.csproj.CoreCompileInputs.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.dll
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\refint\LastTask.dll
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.pdb
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\LastTask.genruntimeconfig.cache
+C:\Рабочий стол\Мое\Учеба\Семинары\3. Знакомство (  С#  )\Завершаю СиШарп\LastTask\obj\Debug\net6.0\ref\LastTask.dll
